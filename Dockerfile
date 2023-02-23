@@ -1,1 +1,1 @@
-FROM ubuntu-2004
+FROM ubuntu-2004:1
